@@ -27,4 +27,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://backblaze.readthedocs.io/en/latest/'
+html_baseurl = 'https://backblazee.readthedocs.io/en/latest/'
